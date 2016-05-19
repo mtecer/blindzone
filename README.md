@@ -1,0 +1,2 @@
+# blindzone
+Stock Portfolio Manager
